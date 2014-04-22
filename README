@@ -73,6 +73,8 @@ Contributing
 
     For further details, see the documentation for the
     XMonad.Doc.Developing module and http://xmonad.org website.
+    
+    Bug tracker is at http://code.google.com/p/xmonad/issues/list
 
 ------------------------------------------------------------------------
 
